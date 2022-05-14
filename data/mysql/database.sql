@@ -4320,7 +4320,7 @@ CREATE TABLE `customer_entity` (
 
 LOCK TABLES `customer_entity` WRITE;
 /*!40000 ALTER TABLE `customer_entity` DISABLE KEYS */;
-INSERT INTO `customer_entity` VALUES (1,1,'duonghht1419@gmail.com',1,NULL,1,'2022-05-13 12:49:19','2022-05-13 12:49:20',1,0,'Default Store View',NULL,'Hoang',NULL,'Duong',NULL,NULL,'7e710b97c5683a0d1c2d88f4dfbe50fef47d62ff37585870caad8bf978612ed1:CWjOo6Z8Ct8wrj2Mekicd5H1uynKBuy3:3_32_2_67108864','uDxiEbGupmh1WPoDurSHtdO57jexYa83','2022-05-13 12:49:20',NULL,NULL,NULL,NULL,NULL,0,NULL,NULL,NULL);
+INSERT INTO `customer_entity` VALUES (1,1,'inf.ng.nam@gmail.com',1,NULL,1,'2021-12-15 21:53:44','2021-12-15 21:54:48',1,0,'Default Store View',NULL,'Test',NULL,'Guy',NULL,NULL,'b2bad2ebf986d4f6f556343ed511f588e13e473141c83d66f0c1250ca70f3c14:QDtDKkeZRN5CmgaNS9AWSJoeBELFH8ux:3_32_2_67108864','kD6lpFjPmpE4CaEwj2v6edZGhnAL3HQd','2021-12-15 21:53:45',1,1,NULL,NULL,NULL,0,NULL,NULL,NULL);
 /*!40000 ALTER TABLE `customer_entity` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -4551,7 +4551,7 @@ CREATE TABLE `customer_grid_flat` (
 
 LOCK TABLES `customer_grid_flat` WRITE;
 /*!40000 ALTER TABLE `customer_grid_flat` DISABLE KEYS */;
-INSERT INTO `customer_grid_flat` VALUES (1,'Hoang Duong','duonghht1419@gmail.com',1,'2022-05-13 12:49:19',1,NULL,'Default Store View',NULL,NULL,NULL,NULL,'','',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO `customer_grid_flat` VALUES (1,'Test Guy','inf.ng.nam@gmail.com',1,'2021-12-15 21:53:44',1,NULL,'Default Store View',NULL,NULL,NULL,NULL,'123123 afsdf23 Hanoi A letter 10000','123123 afsdf23 Hanoi A letter 10000','Test','Guy','0398288294','10000','VN','A letter',0,'123123 afsdf23','Hanoi',NULL,NULL,'Heer');
 /*!40000 ALTER TABLE `customer_grid_flat` ENABLE KEYS */;
 UNLOCK TABLES;
 
