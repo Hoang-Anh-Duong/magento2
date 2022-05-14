@@ -766,6 +766,7 @@ CREATE TABLE `catalog_category_entity_datetime` (
 
 LOCK TABLES `catalog_category_entity_datetime` WRITE;
 /*!40000 ALTER TABLE `catalog_category_entity_datetime` DISABLE KEYS */;
+INSERT INTO `catalog_category_entity_datetime` VALUES (1,61,0,6,NULL),(2,62,0,6,NULL),(3,61,0,10,NULL),(4,62,0,10,NULL);
 /*!40000 ALTER TABLE `catalog_category_entity_datetime` ENABLE KEYS */;
 UNLOCK TABLES;
 
